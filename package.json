@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rifkymol/nodejs-basic/issues"
   },
-  "homepage": "https://github.com/rifkymol/nodejs-basic#readme"
+  "homepage": "https://github.com/rifkymol/nodejs-basic#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
